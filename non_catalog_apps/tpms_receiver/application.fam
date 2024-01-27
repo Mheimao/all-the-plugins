@@ -1,6 +1,6 @@
 App(
-    appid="tpms",
-    name="TPMS Reader",
+    appid="TPMS",
+    name="胎压攻击 Reader",
     apptype=FlipperAppType.EXTERNAL,
     targets=["f7"],
     entry_point="tpms_app",
